@@ -29,6 +29,7 @@ Rules
 The naval battle opposes two players who compete. Each one has a fleet of 5 boats, which are usually: 1 aircraft carrier (5 crates), 1 cruiser (4 crates), 1 destroyer (3 crates), 1 submarine (3 crates) , 1 torpedo boat (2 cases). At the beginning of the game, each player places his boats on his grid. This is always numbered from A to vertical and from 1 to 10 horizontal. One by one, the players will "shoot" on an opponent's affair. For example B.3 or H.8. The goal is to sink the opposing boats. In general, the board games give the white pawns for the shots in the water and the red pawns for the touched ones. As you go, you have to put the pawns on your own grid.
 https://en.wikipedia.org/wiki/Battleship_(game)
 
+# battleship-game_Client-server French
 bataille navale, appelée aussi touché-coulé, est un jeu de société dans lequel deux joueurs doivent placer des « navires » sur une grille tenue secrète et tenter de « toucher » les navires adverses. Le gagnant est celui qui parvient à torpiller complètement les navires de l'adversaire avant que tous les siens ne le soient.
 
 Liste des navires
